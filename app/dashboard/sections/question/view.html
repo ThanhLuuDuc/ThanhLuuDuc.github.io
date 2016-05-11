@@ -1,0 +1,35 @@
+﻿<nav class="top-nav">
+    <div class="container">
+        <div class="nav-wrapper">
+            <a class="page-title">Câu hỏi</a>
+        </div>
+    </div>
+</nav>
+<div class="container">
+    <div class="row">
+        <table class="bordered striped highlight responsive-table centered">
+            <thead>
+                <tr>
+                    <th>Mã câu hỏi</th>
+                    <th>Nội dung câu hỏi</th>
+                    <th>Đáp án</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr ng-repeat="question in vm.question">
+                    <td>{{question.questionId}}</td>
+                    <td>{{question.questionContent}}</td>
+                    <td>{{question.questionAnswer}}</td>
+                    <th>
+                        <button class="btn-floating waves-effect waves-light red" ui-sref="dashboard.question-update({questionId: question.questionId})"><i class="material-icons">input</i></button>
+                    </th>
+                </tr>
+            </tbody>
+        </table>
+
+    </div>
+    <a class="btn-floating waves-effect waves-light red" ui-sref="dashboard.question-update({questionId:0})" style="bottom: 45px; right: 24px; position: fixed;"><i class="material-icons">add</i></a>
+
+
+

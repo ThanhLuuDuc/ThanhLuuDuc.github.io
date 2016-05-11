@@ -1,0 +1,39 @@
+﻿<nav class="top-nav">
+    <div class="container">
+        <div class="nav-wrapper">
+            <a class="page-title">Bài Test</a>
+        </div>
+    </div>
+</nav>
+<div class="container">
+    <div class="row">
+        <table class="bordered striped highlight responsive-table centered" style="table-layout: fixed; width: 100%">
+            <thead>
+                <tr>
+                    <th>Mã bài Test</th>
+                    <th>Tên bài Test</th>
+                    <th>Mô tả</th>
+                    <th>Câu hỏi</th>
+                    <th>Loại bài test</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr ng-repeat="test in vm.test">
+                    <td>{{test.testId}}</td>
+                    <td>{{test.testName}}</td>
+                    <td>{{test.testDescription}}</td>
+                    <td style="word-wrap: break-word">{{test.testQuestions}}</td>
+                    <td>{{test.testType}}</td>
+                    <th>
+                        <button class="btn-floating waves-effect waves-light red" ui-sref="dashboard.test-update({testId: test.testId})"><i class="material-icons">input</i></button>
+                    </th>
+                </tr>
+            </tbody>
+        </table>
+
+    </div>
+    <a class="btn-floating waves-effect waves-light red" ui-sref="dashboard.test-update({testId:0})" style="bottom: 45px; right: 24px; position: fixed;"><i class="material-icons">add</i></a>
+
+
+

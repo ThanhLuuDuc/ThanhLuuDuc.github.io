@@ -1,0 +1,41 @@
+﻿#nav-mobile .logo {
+    padding: 29px 15px;
+}
+
+#logo-container {
+    font-size: 35px;
+}
+
+.copyright {
+    color: white;
+}
+
+.page-footer {
+    padding-top: 10px !important;
+    padding-bottom: 10px;
+}
+
+@media only screen and (min-width: 993px) {
+    .container {
+        width: 85%;
+    }
+
+    header, main, footer {
+        padding-left: 240px;
+    }
+
+    nav.top-nav {
+        box-shadow: none;
+        height: 122px;
+    }
+
+        nav.top-nav a.page-title {
+            font-size: 48px;
+            line-height: 122px;
+        }
+}
+
+pre {
+    white-space: pre-wrap;
+}
+

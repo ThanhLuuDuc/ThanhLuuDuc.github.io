@@ -1,0 +1,56 @@
+﻿<div class="row">
+    <div class="col s12 m4" ng-repeat="test in vm.test">
+        <div class="card white">
+            <div class="card-content">
+                <span class="card-title red-text">{{test.testName}}</span>
+                <p>{{test.testDescription}}</p>
+            </div>
+            <div class="card-action">
+                <a ui-sref="page.make-test({testId: test.testId})" class="btn waves-effect waves-light green white-text">Test</a>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+<button class="btn waves-effect waves-light white red-text" style="bottom: 26px; right: 24px; position: fixed; border-radius: 100px; font-weight: bold;" ng-click="vm.ShowAlpha()"><i class="material-icons left">translate</i>Bảng chữ cái</button>
+
+<div id="alpha" class="modal modal-fixed-footer red" style="color: white; width:95%; max-height: 80%">
+    <div class="modal-content" style="padding-top:0px">
+        <div class="row">
+            <div class="col s12 m6">
+                <div class="row">
+                    <h5 class="center-align white red-text" style="padding: 10px 0px;">Hiragana</h5>
+                    <div class="col s12 m6">
+                        <img class="responsive-img" src="imgs/hira1.png">
+                    </div>
+                    <div class="col s12 m6">
+                        <img class="responsive-img" src="imgs/hira2.png">
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="col s12 m6">
+                <h5 class="center-align white red-text" style="padding: 10px 0px;">Katakana</h5>
+                <div class="row">
+                    <div class="col s12 m6">
+                        <img class="responsive-img" src="imgs/kata1.png">
+                    </div>
+                    <div class="col s12 m6">
+                        <img class="responsive-img" src="imgs/kata2.png">
+                    </div>
+                </div>
+
+            </div>
+
+
+        </div>
+
+    </div>
+    <div class="modal-footer red">
+        <button class=" modal-action modal-close waves-effect waves-red btn btn-flat white" style="color:red" ng-click="vm.CloseAlpha()">Đóng</button>
+    </div>
+</div>
+
+<!--<a ui-sref="dashboard.test" class="btn-floating waves-effect waves-light red" style="bottom: 10px; left: 10px; position: fixed;"><i class="material-icons left">info_outline</i></a>-->

@@ -1,0 +1,49 @@
+﻿<nav class="top-nav">
+    <div class="container">
+        <div class="nav-wrapper">
+            <a class="page-title">Bài test</a>
+        </div>
+    </div>
+</nav>
+<div class="container">
+    <div class="row">
+        <h4>{{vm.title}}</h4>
+        <form name="formUpdate" class="col s12" novalidate>
+            <div class="row">
+                <div class="input-field col s12">
+                    <input id="testName" type="text" ng-model="vm.test.testName" required>
+                    <label for="testName" class="active">Tên bài test</label>
+                </div>
+                <div class="input-field col s6">
+                    <input id="testDescription" type="text" ng-model="vm.test.testDescription" required>
+                    <label for="testDescription" class="active">Mô tả</label>
+                </div>
+            </div>
+            <div class="row">
+                <div class="input-field col s12">
+                    <textarea id="testQuestions" class="materialize-textarea" ng-model="vm.test.testQuestions" required></textarea>
+                    <label for="testQuestions" class="active">Câu hỏi</label>
+                </div>
+            </div>
+            <div class="row">
+                <div class="input-field col s12">
+                    <input id="testType" type="text" ng-model="vm.test.testType" required>
+                    <label for="testType" class="active">Loại bài test</label>
+                </div>
+                <button class="waves-effect waves-light btn" ng-disabled="formUpdate.$invalid" ng-click="vm.Submit()"><i class="material-icons left">note_add</i>Cập nhật</button>
+                <button class="waves-effect waves-light btn" ng-click="vm.Cancel()"><i class="material-icons left">loop</i>Quay lại</button>
+            </div>
+            <div class="row">
+                <div style="height: 200px; overflow:auto">
+                    <pre>{{vm.json}}</pre>
+
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+
+<script>
+    $('#testQuestions').val('New Text');
+    $('#testQuestions').trigger('autoresize');
+</script>

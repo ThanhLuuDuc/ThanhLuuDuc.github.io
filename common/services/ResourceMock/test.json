@@ -1,0 +1,30 @@
+﻿[
+    {
+        "testId": 1,
+        "testName": "Hiragana - Test",
+        "testDescription": "Chuyển Romaji sang Hiragana",
+        "testQuestions": "",
+        "testType": "2"
+    },
+    {
+        "testId": 2,
+        "testName": "Katakana - Test",
+        "testDescription": "Chuyển Romaji sang Katakana",
+        "testQuestions": "",
+        "testType": "5"
+    },
+    {
+        "testId": 3,
+        "testName": "Hiragana - Katakana",
+        "testDescription": "Chuyển Hiragana sang Katakana",
+        "testQuestions": "",
+        "testType": "3"
+    },
+    {
+        "testId": 4,
+        "testName": "Katakana - Hiragana",
+        "testDescription": "Chuyển Katakana sang Hiragana",
+        "testQuestions": "",
+        "testType": "4"
+    }
+]

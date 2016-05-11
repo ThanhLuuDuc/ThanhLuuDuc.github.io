@@ -1,0 +1,30 @@
+﻿<nav class="top-nav">
+    <div class="container">
+        <div class="nav-wrapper">
+            <a class="page-title">Bảng chữ cái</a>
+        </div>
+    </div>
+</nav>
+<div class="container">
+    <div class="row">
+        <h4>{{vm.title}}</h4>
+        <form name="formUpdate" class="col s12" novalidate>
+            <div class="row">
+                <div class="input-field col s6">
+                    <input id="romaji" type="text" ng-model="vm.alpha.romaji" required>
+                    <label for="romaji" class="active">Tên chữ cái bằng romaji</label>
+                </div>
+            </div>
+            <div class="row">
+                <button class="waves-effect waves-light btn" ng-disabled="formUpdate.$invalid" ng-click="vm.Submit()"><i class="material-icons left">note_add</i>Cập nhật</button>
+                <button class="waves-effect waves-light btn" ng-click="vm.Cancel()"><i class="material-icons left">loop</i>Quay lại</button>
+            </div>
+            <div class="row">
+                <div style="height: 200px; overflow:auto">
+                    <pre>{{vm.json}}</pre>
+
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
