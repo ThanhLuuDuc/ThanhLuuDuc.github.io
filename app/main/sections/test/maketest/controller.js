@@ -4,7 +4,6 @@
     angular.module("b24jpApp").controller("MakeTestCtrl", MakeTestCtrl);
     MakeTestCtrl.$inject = ["test", "$state", "testResource", "questionResource", "alphaResource", "$timeout"];
 
-
     function MakeTestCtrl(test, $state, testResource, questionResource, alphaResource, $timeout) {
         var vm = this;
 
@@ -31,18 +30,17 @@
         // init config test
         vm.Config = {
             NumberQuestion: 20,
-            TimeQuestion: 10,
+            TimeQuestion: 15
         }
 
 
-        // init question test
+        // init question testss
         vm.question = [];
         vm.answer = [];
         vm.WrongAnswer = [];
         vm.MarkTrueAnswer = 0;
         vm.MarkFalseAnswer = 0;
         vm.CurrentQuestion = 0;
-
 
         // init functions
         vm.Start = start;
@@ -53,10 +51,6 @@
         vm.CheckAnswer = checkAnswer;
         vm.NextQuestion = nextQuestion;
         vm.PrevQuestion = prevQuestion;
-
-
-
-
 
         function initTest() {
             // set time count down
@@ -69,14 +63,6 @@
 
             // get question for current test
             questionResource.query(function (data) {
-                //
-                // question from test if it have question
-                //
-                //for (var i = 0; i < vm.test.length; i++) {
-                //    if (vm.idTestQuestions[i] == data[i].questionId)
-                //        vm.question.push(data[i]);
-                //    vm.question[i].questionAnswer = vm.question[i].questionAnswer.split(',');
-                //}
 
                 while (vm.question.length < vm.Config.NumberQuestion) {
                     var randomnumber = Math.ceil(Math.random() * 104)
@@ -100,7 +86,6 @@
                     }
                 }
 
-                //console.log(vm.question);
                 alphaResource.query(function (data) {
                     vm.Alpha = data;
                     for (var i = 0; i < vm.question.length; i++)
@@ -120,11 +105,7 @@
                             }
 
                 });
-                //console.log(vm.question);
             });
-
-            // gest answer for current test
-
         }
 
         // reset status form
@@ -159,11 +140,8 @@
                 vm.MarkFalseAnswer += 1;
                 vm.WrongAnswer.push(vm.question[vm.CurrentQuestion]);
             }
-
             $timeout(nextQuestion, 1000);
         }
-
-
 
         function start() {
             resetTest();
@@ -186,11 +164,9 @@
                 vm.TimerCount = vm.Config.TimeQuestion;
                 timer = $timeout(timerCountDown, 1000);
             }
-            else
-            {
+            else {
                 vm.CurrentQuestion += 1;
-                for (var i = 0; i < vm.WrongAnswer.length; i++)
-                {
+                for (var i = 0; i < vm.WrongAnswer.length; i++) {
                     if (vm.TestType % 2 == 0)
                         vm.WrongAnswer[i].imageContent = "imgs/hiragana/" + vm.WrongAnswer[i].questionContent + ".jpg";
                     else
@@ -209,7 +185,6 @@
             $state.go('page.test');
         }
 
-
         // show alpha
         function showConfirm() {
             $('#modal-confirm').openModal();
@@ -219,5 +194,5 @@
             $('#modal-confirm').closeModal();
         }
     }
-}());
+} ());
 

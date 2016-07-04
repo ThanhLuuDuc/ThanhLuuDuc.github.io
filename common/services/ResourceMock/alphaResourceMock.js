@@ -1,4 +1,4 @@
-/**
+﻿/**
  * Created by Deb on 8/21/2014.
  */
 (function () {
@@ -13,626 +13,626 @@
             {
                 "alphaId": 1,
                 "romaji": "a",
-                "hiragana": "imgs/hiragana/a.jpg",
-                "katakana": "imgs/katakana/a.jpg"
+                "hiragana": "あ",
+                "katakana": "ア"
             },
             {
                 "alphaId": 2,
                 "romaji": "i",
-                "hiragana": "imgs/hiragana/i.jpg",
-                "katakana": "imgs/katakana/i.jpg"
+                "hiragana": "い",
+                "katakana": "イ"
             },
             {
                 "alphaId": 3,
                 "romaji": "u",
-                "hiragana": "imgs/hiragana/u.jpg",
-                "katakana": "imgs/katakana/u.jpg"
+                "hiragana": "う",
+                "katakana": "ウ"
             },
             {
                 "alphaId": 4,
                 "romaji": "e",
-                "hiragana": "imgs/hiragana/e.jpg",
-                "katakana": "imgs/katakana/e.jpg"
+                "hiragana": "え",
+                "katakana": "エ"
             },
             {
                 "alphaId": 5,
                 "romaji": "o",
-                "hiragana": "imgs/hiragana/o.jpg",
-                "katakana": "imgs/katakana/o.jpg"
+                "hiragana": "お",
+                "katakana": "オ"
             },
             {
                 "alphaId": 6,
                 "romaji": "ka",
-                "hiragana": "imgs/hiragana/ka.jpg",
-                "katakana": "imgs/katakana/ka.jpg"
+                "hiragana": "か",
+                "katakana": "カ"
             },
             {
                 "alphaId": 7,
                 "romaji": "ki",
-                "hiragana": "imgs/hiragana/ki.jpg",
-                "katakana": "imgs/katakana/ki.jpg"
+                "hiragana": "き",
+                "katakana": "キ"
             },
             {
                 "alphaId": 8,
                 "romaji": "ku",
-                "hiragana": "imgs/hiragana/ku.jpg",
-                "katakana": "imgs/katakana/ku.jpg"
+                "hiragana": "く",
+                "katakana": "ク"
             },
             {
                 "alphaId": 9,
                 "romaji": "ke",
-                "hiragana": "imgs/hiragana/ke.jpg",
-                "katakana": "imgs/katakana/ke.jpg"
+                "hiragana": "け",
+                "katakana": "ケ"
             },
             {
                 "alphaId": 10,
                 "romaji": "ko",
-                "hiragana": "imgs/hiragana/ko.jpg",
-                "katakana": "imgs/katakana/ko.jpg"
+                "hiragana": "こ",
+                "katakana": "コ"
             },
             {
                 "alphaId": 11,
                 "romaji": "sa",
-                "hiragana": "imgs/hiragana/sa.jpg",
-                "katakana": "imgs/katakana/sa.jpg"
+                "hiragana": "さ",
+                "katakana": "サ"
             },
             {
                 "alphaId": 12,
                 "romaji": "shi",
-                "hiragana": "imgs/hiragana/shi.jpg",
-                "katakana": "imgs/katakana/shi.jpg"
+                "hiragana": "し",
+                "katakana": "シ"
             },
             {
                 "alphaId": 13,
                 "romaji": "su",
-                "hiragana": "imgs/hiragana/su.jpg",
-                "katakana": "imgs/katakana/su.jpg"
+                "hiragana": "す",
+                "katakana": "ス"
             },
             {
                 "alphaId": 14,
                 "romaji": "se",
-                "hiragana": "imgs/hiragana/se.jpg",
-                "katakana": "imgs/katakana/se.jpg"
+                "hiragana": "せ",
+                "katakana": "セ"
             },
             {
                 "alphaId": 15,
                 "romaji": "so",
-                "hiragana": "imgs/hiragana/so.jpg",
-                "katakana": "imgs/katakana/so.jpg"
+                "hiragana": "そ",
+                "katakana": "ソ"
             },
             {
                 "alphaId": 16,
                 "romaji": "ta",
-                "hiragana": "imgs/hiragana/ta.jpg",
-                "katakana": "imgs/katakana/ta.jpg"
+                "hiragana": "た",
+                "katakana": "タ"
             },
             {
                 "alphaId": 17,
                 "romaji": "chi",
-                "hiragana": "imgs/hiragana/chi.jpg",
-                "katakana": "imgs/katakana/chi.jpg"
+                "hiragana": "ち",
+                "katakana": "チ"
             },
             {
                 "alphaId": 18,
                 "romaji": "tsu",
-                "hiragana": "imgs/hiragana/tsu.jpg",
-                "katakana": "imgs/katakana/tsu.jpg"
+                "hiragana": "つ",
+                "katakana": "ツ"
             },
             {
                 "alphaId": 19,
                 "romaji": "te",
-                "hiragana": "imgs/hiragana/te.jpg",
-                "katakana": "imgs/katakana/te.jpg"
+                "hiragana": "て",
+                "katakana": "テ"
             },
             {
                 "alphaId": 20,
                 "romaji": "to",
-                "hiragana": "imgs/hiragana/to.jpg",
-                "katakana": "imgs/katakana/to.jpg"
+                "hiragana": "と",
+                "katakana": "ト"
             },
             {
                 "alphaId": 21,
                 "romaji": "na",
-                "hiragana": "imgs/hiragana/na.jpg",
-                "katakana": "imgs/katakana/na.jpg"
+                "hiragana": "な",
+                "katakana": "ナ"
             },
             {
                 "alphaId": 22,
                 "romaji": "ni",
-                "hiragana": "imgs/hiragana/ni.jpg",
-                "katakana": "imgs/katakana/ni.jpg"
+                "hiragana": "に",
+                "katakana": "ニ"
             },
             {
                 "alphaId": 23,
                 "romaji": "nu",
-                "hiragana": "imgs/hiragana/nu.jpg",
-                "katakana": "imgs/katakana/nu.jpg"
+                "hiragana": "ぬ",
+                "katakana": "ヌ"
             },
             {
                 "alphaId": 24,
                 "romaji": "ne",
-                "hiragana": "imgs/hiragana/ne.jpg",
-                "katakana": "imgs/katakana/ne.jpg"
+                "hiragana": "ね",
+                "katakana": "ネ"
             },
             {
                 "alphaId": 25,
                 "romaji": "no",
-                "hiragana": "imgs/hiragana/no.jpg",
-                "katakana": "imgs/katakana/no.jpg"
+                "hiragana": "の",
+                "katakana": "ノ"
             },
             {
                 "alphaId": 26,
                 "romaji": "ha",
-                "hiragana": "imgs/hiragana/ha.jpg",
-                "katakana": "imgs/katakana/ha.jpg"
+                "hiragana": "は",
+                "katakana": "ハ"
             },
             {
                 "alphaId": 27,
                 "romaji": "hi",
-                "hiragana": "imgs/hiragana/hi.jpg",
-                "katakana": "imgs/katakana/hi.jpg"
+                "hiragana": "ひ",
+                "katakana": "ヒ"
             },
             {
                 "alphaId": 28,
                 "romaji": "fu",
-                "hiragana": "imgs/hiragana/fu.jpg",
-                "katakana": "imgs/katakana/fu.jpg"
+                "hiragana": "ふ",
+                "katakana": "フ"
             },
             {
                 "alphaId": 29,
                 "romaji": "he",
-                "hiragana": "imgs/hiragana/he.jpg",
-                "katakana": "imgs/katakana/he.jpg"
+                "hiragana": "へ",
+                "katakana": "ヘ"
             },
             {
                 "alphaId": 30,
                 "romaji": "ho",
-                "hiragana": "imgs/hiragana/ho.jpg",
-                "katakana": "imgs/katakana/ho.jpg"
+                "hiragana": "ほ",
+                "katakana": "ホ"
             },
             {
                 "alphaId": 31,
                 "romaji": "ma",
-                "hiragana": "imgs/hiragana/ma.jpg",
-                "katakana": "imgs/katakana/ma.jpg"
+                "hiragana": "ま",
+                "katakana": "マ"
             },
             {
                 "alphaId": 32,
                 "romaji": "mi",
-                "hiragana": "imgs/hiragana/mi.jpg",
-                "katakana": "imgs/katakana/mi.jpg"
+                "hiragana": "み",
+                "katakana": "ミ"
             },
             {
                 "alphaId": 33,
                 "romaji": "mu",
-                "hiragana": "imgs/hiragana/mu.jpg",
-                "katakana": "imgs/katakana/mu.jpg"
+                "hiragana": "む",
+                "katakana": "ム"
             },
             {
                 "alphaId": 34,
                 "romaji": "me",
-                "hiragana": "imgs/hiragana/me.jpg",
-                "katakana": "imgs/katakana/me.jpg"
+                "hiragana": "め",
+                "katakana": "メ"
             },
             {
                 "alphaId": 35,
                 "romaji": "mo",
-                "hiragana": "imgs/hiragana/mo.jpg",
-                "katakana": "imgs/katakana/mo.jpg"
+                "hiragana": "も",
+                "katakana": "モ"
             },
             {
                 "alphaId": 36,
                 "romaji": "ya",
-                "hiragana": "imgs/hiragana/ya.jpg",
-                "katakana": "imgs/katakana/ya.jpg"
+                "hiragana": "や",
+                "katakana": "ヤ"
             },
             {
                 "alphaId": 37,
                 "romaji": "yu",
-                "hiragana": "imgs/hiragana/yu.jpg",
-                "katakana": "imgs/katakana/yu.jpg"
+                "hiragana": "ゆ",
+                "katakana": "ユ"
             },
             {
                 "alphaId": 38,
                 "romaji": "yo",
-                "hiragana": "imgs/hiragana/yo.jpg",
-                "katakana": "imgs/katakana/yo.jpg"
+                "hiragana": "よ",
+                "katakana": "ヨ"
             },
             {
                 "alphaId": 39,
                 "romaji": "ra",
-                "hiragana": "imgs/hiragana/ra.jpg",
-                "katakana": "imgs/katakana/ra.jpg"
+                "hiragana": "ら",
+                "katakana": "ラ"
             },
             {
                 "alphaId": 40,
                 "romaji": "ri",
-                "hiragana": "imgs/hiragana/ri.jpg",
-                "katakana": "imgs/katakana/ri.jpg"
+                "hiragana": "り",
+                "katakana": "リ"
             },
             {
                 "alphaId": 41,
                 "romaji": "ru",
-                "hiragana": "imgs/hiragana/ru.jpg",
-                "katakana": "imgs/katakana/ru.jpg"
+                "hiragana": "る",
+                "katakana": "ル"
             },
             {
                 "alphaId": 42,
                 "romaji": "re",
-                "hiragana": "imgs/hiragana/re.jpg",
-                "katakana": "imgs/katakana/re.jpg"
+                "hiragana": "れ",
+                "katakana": "レ"
             },
             {
                 "alphaId": 43,
                 "romaji": "ro",
-                "hiragana": "imgs/hiragana/ro.jpg",
-                "katakana": "imgs/katakana/ro.jpg"
+                "hiragana": "ろ",
+                "katakana": "ロ"
             },
             {
                 "alphaId": 44,
                 "romaji": "wa",
-                "hiragana": "imgs/hiragana/wa.jpg",
-                "katakana": "imgs/katakana/wa.jpg"
+                "hiragana": "わ",
+                "katakana": "ワ"
             },
             {
                 "alphaId": 45,
                 "romaji": "wo",
-                "hiragana": "imgs/hiragana/wo.jpg",
-                "katakana": "imgs/katakana/wo.jpg"
+                "hiragana": "を",
+                "katakana": "ヲ"
             },
             {
                 "alphaId": 46,
                 "romaji": "n",
-                "hiragana": "imgs/hiragana/n.jpg",
-                "katakana": "imgs/katakana/n.jpg"
+                "hiragana": "ん",
+                "katakana": "ン"
             },
             {
                 "alphaId": 47,
                 "romaji": "ga",
-                "hiragana": "imgs/hiragana/ga.jpg",
-                "katakana": "imgs/katakana/ga.jpg"
+                "hiragana": "が",
+                "katakana": "ガ"
             },
             {
                 "alphaId": 48,
                 "romaji": "gi",
-                "hiragana": "imgs/hiragana/gi.jpg",
-                "katakana": "imgs/katakana/gi.jpg"
+                "hiragana": "ぎ",
+                "katakana": "ギ"
             },
             {
                 "alphaId": 49,
                 "romaji": "gu",
-                "hiragana": "imgs/hiragana/gu.jpg",
-                "katakana": "imgs/katakana/gu.jpg"
+                "hiragana": "ぐ",
+                "katakana": "グ"
             },
             {
                 "alphaId": 50,
                 "romaji": "ge",
-                "hiragana": "imgs/hiragana/ge.jpg",
-                "katakana": "imgs/katakana/ge.jpg"
+                "hiragana": "げ",
+                "katakana": "ゲ"
             },
             {
                 "alphaId": 51,
                 "romaji": "go",
-                "hiragana": "imgs/hiragana/go.jpg",
-                "katakana": "imgs/katakana/go.jpg"
+                "hiragana": "ご",
+                "katakana": "ゴ"
             },
             {
                 "alphaId": 52,
                 "romaji": "za",
-                "hiragana": "imgs/hiragana/za.jpg",
-                "katakana": "imgs/katakana/za.jpg"
+                "hiragana": "ざ",
+                "katakana": "ザ"
             },
             {
                 "alphaId": 53,
                 "romaji": "ji",
-                "hiragana": "imgs/hiragana/ji.jpg",
-                "katakana": "imgs/katakana/ji.jpg"
+                "hiragana": "じ",
+                "katakana": "ジ"
             },
             {
                 "alphaId": 54,
                 "romaji": "zu",
-                "hiragana": "imgs/hiragana/zu.jpg",
-                "katakana": "imgs/katakana/zu.jpg"
+                "hiragana": "ず",
+                "katakana": "ズ"
             },
             {
                 "alphaId": 55,
                 "romaji": "ze",
-                "hiragana": "imgs/hiragana/ze.jpg",
-                "katakana": "imgs/katakana/ze.jpg"
+                "hiragana": "ぜ",
+                "katakana": "ゼ"
             },
             {
                 "alphaId": 56,
                 "romaji": "zo",
-                "hiragana": "imgs/hiragana/zo.jpg",
-                "katakana": "imgs/katakana/zo.jpg"
+                "hiragana": "ぞ",
+                "katakana": "ゾ"
             },
             {
                 "alphaId": 57,
                 "romaji": "da",
-                "hiragana": "imgs/hiragana/da.jpg",
-                "katakana": "imgs/katakana/da.jpg"
+                "hiragana": "だ",
+                "katakana": "ダ"
             },
             {
                 "alphaId": 58,
                 "romaji": "ji-s",
-                "hiragana": "imgs/hiragana/ji-s.jpg",
-                "katakana": "imgs/katakana/ji-s.jpg"
+                "hiragana": "ぢ",
+                "katakana": "ヂ"
             },
             {
                 "alphaId": 59,
                 "romaji": "zu-s",
-                "hiragana": "imgs/hiragana/zu-s.jpg",
-                "katakana": "imgs/katakana/zu-s.jpg"
+                "hiragana": "づ",
+                "katakana": "ヅ"
             },
             {
                 "alphaId": 60,
                 "romaji": "de",
-                "hiragana": "imgs/hiragana/de.jpg",
-                "katakana": "imgs/katakana/de.jpg"
+                "hiragana": "で",
+                "katakana": "デ"
             },
             {
                 "alphaId": 61,
                 "romaji": "do",
-                "hiragana": "imgs/hiragana/do.jpg",
-                "katakana": "imgs/katakana/do.jpg"
+                "hiragana": "ど",
+                "katakana": "ド"
             },
             {
                 "alphaId": 62,
                 "romaji": "ba",
-                "hiragana": "imgs/hiragana/ba.jpg",
-                "katakana": "imgs/katakana/ba.jpg"
+                "hiragana": "ば",
+                "katakana": "バ"
             },
             {
                 "alphaId": 63,
                 "romaji": "bi",
-                "hiragana": "imgs/hiragana/bi.jpg",
-                "katakana": "imgs/katakana/bi.jpg"
+                "hiragana": "び",
+                "katakana": "ビ"
             },
             {
                 "alphaId": 64,
                 "romaji": "bu",
-                "hiragana": "imgs/hiragana/bu.jpg",
-                "katakana": "imgs/katakana/bu.jpg"
+                "hiragana": "ぶ",
+                "katakana": "ブ"
             },
             {
                 "alphaId": 65,
                 "romaji": "be",
-                "hiragana": "imgs/hiragana/be.jpg",
-                "katakana": "imgs/katakana/be.jpg"
+                "hiragana": "べ",
+                "katakana": "ブ"
             },
             {
                 "alphaId": 66,
                 "romaji": "bo",
-                "hiragana": "imgs/hiragana/bo.jpg",
-                "katakana": "imgs/katakana/bo.jpg"
+                "hiragana": "ぼ",
+                "katakana": "ボ"
             },
             {
                 "alphaId": 67,
                 "romaji": "pa",
-                "hiragana": "imgs/hiragana/pa.jpg",
-                "katakana": "imgs/katakana/pa.jpg"
+                "hiragana": "ぱ",
+                "katakana": "パ"
             },
             {
                 "alphaId": 68,
                 "romaji": "pi",
-                "hiragana": "imgs/hiragana/pi.jpg",
-                "katakana": "imgs/katakana/pi.jpg"
+                "hiragana": "ぴ",
+                "katakana": "ピ"
             },
             {
                 "alphaId": 69,
                 "romaji": "pu",
-                "hiragana": "imgs/hiragana/pu.jpg",
-                "katakana": "imgs/katakana/pu.jpg"
+                "hiragana": "ぷ",
+                "katakana": "プ"
             },
             {
                 "alphaId": 70,
                 "romaji": "pe",
-                "hiragana": "imgs/hiragana/pe.jpg",
-                "katakana": "imgs/katakana/pe.jpg"
+                "hiragana": "ぺ",
+                "katakana": "ペ"
             },
             {
                 "alphaId": 71,
                 "romaji": "po",
-                "hiragana": "imgs/hiragana/po.jpg",
-                "katakana": "imgs/katakana/po.jpg"
+                "hiragana": "ぽ",
+                "katakana": "ポ"
             },
             {
                 "alphaId": 72,
                 "romaji": "kya",
-                "hiragana": "imgs/hiragana/kya.jpg",
-                "katakana": "imgs/katakana/kya.jpg"
+                "hiragana": "きゃ",
+                "katakana": "キャ"
             },
             {
                 "alphaId": 73,
                 "romaji": "kyu",
-                "hiragana": "imgs/hiragana/kyu.jpg",
-                "katakana": "imgs/katakana/kyu.jpg"
+                "hiragana": "きゅ",
+                "katakana": "キュ"
             },
             {
                 "alphaId": 74,
                 "romaji": "kyo",
-                "hiragana": "imgs/hiragana/kyo.jpg",
-                "katakana": "imgs/katakana/kyo.jpg"
+                "hiragana": "きょ",
+                "katakana": "キョ"
             },
             {
                 "alphaId": 75,
                 "romaji": "sha",
-                "hiragana": "imgs/hiragana/sha.jpg",
-                "katakana": "imgs/katakana/sha.jpg"
+                "hiragana": "しゃ",
+                "katakana": "シャ"
             },
             {
                 "alphaId": 76,
                 "romaji": "shu",
-                "hiragana": "imgs/hiragana/shu.jpg",
-                "katakana": "imgs/katakana/shu.jpg"
+                "hiragana": "しゅ",
+                "katakana": "シュ"
             },
             {
                 "alphaId": 77,
                 "romaji": "sho",
-                "hiragana": "imgs/hiragana/sho.jpg",
-                "katakana": "imgs/katakana/sho.jpg"
+                "hiragana": "しょ",
+                "katakana": "ショ"
             },
             {
                 "alphaId": 78,
                 "romaji": "cha",
-                "hiragana": "imgs/hiragana/cha.jpg",
-                "katakana": "imgs/katakana/cha.jpg"
+                "hiragana": "ちゃ",
+                "katakana": "チャ"
             },
             {
                 "alphaId": 79,
                 "romaji": "chu",
-                "hiragana": "imgs/hiragana/chu.jpg",
-                "katakana": "imgs/katakana/chu.jpg"
+                "hiragana": "ちゅ",
+                "katakana": "チュ"
             },
             {
                 "alphaId": 80,
                 "romaji": "cho",
-                "hiragana": "imgs/hiragana/cho.jpg",
-                "katakana": "imgs/katakana/cho.jpg"
+                "hiragana": "ちょ",
+                "katakana": "チョ"
             },
             {
                 "alphaId": 81,
                 "romaji": "nya",
-                "hiragana": "imgs/hiragana/nya.jpg",
-                "katakana": "imgs/katakana/nya.jpg"
+                "hiragana": "にゃ",
+                "katakana": "ニャ"
             },
             {
                 "alphaId": 82,
                 "romaji": "nyu",
-                "hiragana": "imgs/hiragana/nyu.jpg",
-                "katakana": "imgs/katakana/nyu.jpg"
+                "hiragana": "にゅ",
+                "katakana": "ニュ"
             },
             {
                 "alphaId": 83,
                 "romaji": "nyo",
-                "hiragana": "imgs/hiragana/nyo.jpg",
-                "katakana": "imgs/katakana/nyo.jpg"
+                "hiragana": "にょ",
+                "katakana": "ニョ"
             },
             {
                 "alphaId": 84,
                 "romaji": "hya",
-                "hiragana": "imgs/hiragana/hya.jpg",
-                "katakana": "imgs/katakana/hya.jpg"
+                "hiragana": "ひゃ",
+                "katakana": "ヒャ"
             },
             {
                 "alphaId": 85,
                 "romaji": "hyu",
-                "hiragana": "imgs/hiragana/hyu.jpg",
-                "katakana": "imgs/katakana/hyu.jpg"
+                "hiragana": "ひゅ",
+                "katakana": "ヒュ"
             },
             {
                 "alphaId": 86,
                 "romaji": "hyo",
-                "hiragana": "imgs/hiragana/hyo.jpg",
-                "katakana": "imgs/katakana/hyo.jpg"
+                "hiragana": "ひょ",
+                "katakana": "ヒョ"
             },
             {
                 "alphaId": 87,
                 "romaji": "mya",
-                "hiragana": "imgs/hiragana/mya.jpg",
-                "katakana": "imgs/katakana/mya.jpg"
+                "hiragana": "みゃ",
+                "katakana": "ミャ"
             },
             {
                 "alphaId": 88,
                 "romaji": "myu",
-                "hiragana": "imgs/hiragana/myu.jpg",
-                "katakana": "imgs/katakana/myu.jpg"
+                "hiragana": "みゅ",
+                "katakana": "ミュ"
             },
             {
                 "alphaId": 89,
                 "romaji": "myo",
-                "hiragana": "imgs/hiragana/myo.jpg",
-                "katakana": "imgs/katakana/myo.jpg"
+                "hiragana": "みょ",
+                "katakana": "ミョ"
             },
             {
                 "alphaId": 90,
                 "romaji": "rya",
-                "hiragana": "imgs/hiragana/rya.jpg",
-                "katakana": "imgs/katakana/rya.jpg"
+                "hiragana": "りゃ",
+                "katakana": "リャ"
             },
             {
                 "alphaId": 91,
                 "romaji": "ryu",
-                "hiragana": "imgs/hiragana/ryu.jpg",
-                "katakana": "imgs/katakana/ryu.jpg"
+                "hiragana": "りゅ",
+                "katakana": "リュ"
             },
             {
                 "alphaId": 92,
                 "romaji": "ryo",
-                "hiragana": "imgs/hiragana/ryo.jpg",
-                "katakana": "imgs/katakana/ryo.jpg"
+                "hiragana": "りょ",
+                "katakana": "リョ"
             },
             {
                 "alphaId": 93,
                 "romaji": "gya",
-                "hiragana": "imgs/hiragana/gya.jpg",
-                "katakana": "imgs/katakana/gya.jpg"
+                "hiragana": "ぎゃ",
+                "katakana": "ギャ"
             },
             {
                 "alphaId": 94,
                 "romaji": "gyu",
-                "hiragana": "imgs/hiragana/gyu.jpg",
-                "katakana": "imgs/katakana/gyu.jpg"
+                "hiragana": "ぎゅ",
+                "katakana": "ギュ"
             },
             {
                 "alphaId": 95,
                 "romaji": "gyo",
-                "hiragana": "imgs/hiragana/gyo.jpg",
-                "katakana": "imgs/katakana/gyo.jpg"
+                "hiragana": "ぎょ",
+                "katakana": "ギョ"
             },
             {
                 "alphaId": 96,
                 "romaji": "ja",
-                "hiragana": "imgs/hiragana/ja.jpg",
-                "katakana": "imgs/katakana/ja.jpg"
+                "hiragana": "じゃ",
+                "katakana": "ジャ"
             },
             {
                 "alphaId": 97,
                 "romaji": "ju",
-                "hiragana": "imgs/hiragana/ju.jpg",
-                "katakana": "imgs/katakana/ju.jpg"
+                "hiragana": "じゅ",
+                "katakana": "ジュ"
             },
             {
                 "alphaId": 98,
                 "romaji": "jo",
-                "hiragana": "imgs/hiragana/jo.jpg",
-                "katakana": "imgs/katakana/jo.jpg"
+                "hiragana": "じょ",
+                "katakana": "ジョ"
             },
             {
                 "alphaId": 99,
                 "romaji": "bya",
-                "hiragana": "imgs/hiragana/bya.jpg",
-                "katakana": "imgs/katakana/bya.jpg"
+                "hiragana": "びゃ",
+                "katakana": "ビャ"
             },
             {
                 "alphaId": 100,
                 "romaji": "byu",
-                "hiragana": "imgs/hiragana/byu.jpg",
-                "katakana": "imgs/katakana/byu.jpg"
+                "hiragana": "びゅ",
+                "katakana": "ビュ"
             },
             {
                 "alphaId": 101,
                 "romaji": "byo",
-                "hiragana": "imgs/hiragana/byo.jpg",
-                "katakana": "imgs/katakana/byo.jpg"
+                "hiragana": "びょ",
+                "katakana": "ビョ"
             },
             {
                 "alphaId": 102,
                 "romaji": "pya",
-                "hiragana": "imgs/hiragana/pya.jpg",
-                "katakana": "imgs/katakana/pya.jpg"
+                "hiragana": "ぴゃ",
+                "katakana": "ピャ"
             },
             {
                 "alphaId": 103,
                 "romaji": "pyu",
-                "hiragana": "imgs/hiragana/pyu.jpg",
-                "katakana": "imgs/katakana/pyu.jpg"
+                "hiragana": "ぴゅ",
+                "katakana": "ピュ"
             },
             {
                 "alphaId": 104,
                 "romaji": "pyo",
-                "hiragana": "imgs/hiragana/pyo.jpg",
-                "katakana": "imgs/katakana/pyo.jpg"
+                "hiragana": "ぴょ",
+                "katakana": "ピョ"
             }
         ];
 
